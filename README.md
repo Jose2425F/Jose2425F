@@ -4,7 +4,7 @@
   <p>Me interesa mucho la seguridad informática y actualmente me encuentro aprendiendo sobre este tema. Además, disfruto colaborando en proyectos y resolviendo problemas.</p>
   <p>Si necesitas contactarme, puedes hacerlo a través de mi perfil de <a href="https://github.com/Jose2425F" target="_blank">GitHub</a>, o bien puedes encontrarme en:</p>
   <p align="center">
-    <a href="https://discord.gg/aX6PUjRjDN" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="discord" width="40" height="40"/></a>
+    <a href="https://discord.gg/aX6PUjRjDN" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="JoseF.#3934" width="40" height="40"/></a>
     <a href="https://www.instagram.com/jose_f._03/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="instagram" width="40" height="40"/></a>
   </p>
   <p>¡Estaré encantado de charlar contigo!</p>
