@@ -81,10 +81,10 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 
 **⚡ Especialidad — Power Platform**
 
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="power apps" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="power automate" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="sharepoint" />
+<img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="dataverse" />
 
 **💻 Lenguajes y frameworks**
 
