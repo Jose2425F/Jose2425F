@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<!-- ============================ VISITAS + SOCIALES ============================ -->
+<!-- ============================ VISITAS + SOCIALES + CV ============================ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jose2425F&style=for-the-badge&color=2f6df6&label=VISITAS+AL+PERFIL" alt="visitas" />
 </div>
@@ -26,82 +26,83 @@
   <a href="https://www.instagram.com/jose_f._03/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
+  <a href="https://github.com/Jose2425F/Jose2425F/raw/main/assets/CV_Jose_Galvan.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Descargar%20mi%20CV-fb923c?style=for-the-badge&logoColor=white" alt="cv" />
+  </a>
 </div>
 
 <br/>
 
 <!-- ============================ SOBRE MÍ ============================ -->
-<h2 align="center">🧑‍💻 Sobre mí</h2>
+## 🧑‍💻 Sobre mí
+
+<table>
+<tr>
+<td valign="top" width="60%">
+
+Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último semestre** y desarrollador con alma de solucionador de problemas. Me dedico a **automatizar y centralizar procesos** para que las cosas fluyan más rápido y con menos errores.
+
+- 🏦 &nbsp;**Practicante en el Banco de Bogotá** — Power Apps, Power Automate y SharePoint
+- 🔐 &nbsp;Apasionado por la **ciberseguridad** — proyecto de grado con **agentes de IA** (CrewAI + Nmap)
+- 🌐 &nbsp;Desarrollo **full-stack** con React, Angular y TypeScript
+- 🖥️ &nbsp;Administro **servidores VPS / Linux** (Nginx, Docker)
+- 🌱 &nbsp;Siempre aprendiendo algo nuevo y colaborando en proyectos reales
+
+> _"Automatizar lo repetitivo para enfocarse en lo importante."_
+
+</td>
+<td valign="top" width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding" />
+</td>
+</tr>
+</table>
+
+<!-- ============================ TECNOLOGÍAS ============================ -->
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
-🎓 &nbsp;Ingeniero de Sistemas en **último semestre** <br/>
-🏦 &nbsp;Practicante en el **Banco de Bogotá** — Power Platform y Automatización <br/>
-⚙️ &nbsp;Enfocado en **automatizar y centralizar procesos** para ganar tiempo y orden <br/>
-🔐 &nbsp;Explorando la **ciberseguridad** y los **agentes de IA** (proyecto de grado con CrewAI + Nmap) <br/>
-🌐 &nbsp;Desarrollo web con **React**, **Angular** y **TypeScript**, y administro **servidores VPS / Linux** <br/>
-📍 &nbsp;Bogotá D.C., Colombia 🇨🇴 <br/>
-
-<br/>
-
-<i>"Automatizar lo repetitivo para enfocarse en lo importante."</i>
+<!-- iconos animados (con movimiento) -->
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" height="52" alt="python" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="52" height="52" alt="typescript" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="52" height="52" alt="javascript" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" height="52" alt="react" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="52" height="52" alt="java" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" height="52" alt="docker" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" height="52" alt="mysql" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="52" height="52" alt="nginx" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="github" />
 
 </div>
 
 <br/>
 
-<!-- ============================ TECNOLOGÍAS ============================ -->
-<h2 align="center">🛠️ Tecnologías y herramientas</h2>
-
 <div align="center">
 
-**⚡ Power Platform**
+**⚡ Especialidad — Power Platform**
 
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**💻 Lenguajes**
+**💻 Lenguajes y frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,kotlin,php,react,angular,vite,html,css&theme=dark" alt="lenguajes" />
 
-**🌐 Desarrollo web**
+**🗄️ Datos · Infraestructura · Seguridad**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**🗄️ Bases de datos**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,supabase,linux,nginx,docker,git,kali,bash&theme=dark" alt="infra" />
+<br/>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
-
-**🚀 DevOps · Infraestructura · Seguridad**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
 <br/>
 
 <!-- ============================ ESTADÍSTICAS ============================ -->
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=fb923c&text_color=c9d1d9&bg_color=0d1117" alt="estadisticas" />
@@ -115,7 +116,7 @@
 <br/>
 
 <!-- ============================ ACTIVIDAD ============================ -->
-<h2 align="center">📈 Actividad de contribuciones</h2>
+## 📈 Actividad de contribuciones
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=0d1117&color=38bdf8&line=fb923c&point=ffffff&area=true&hide_border=true" alt="grafica de actividad" />
@@ -124,7 +125,7 @@
 <br/>
 
 <!-- ============================ RESUMEN EN TARJETAS ============================ -->
-<h2 align="center">🧩 Resumen del perfil</h2>
+## 🧩 Resumen del perfil
 
 <div align="center">
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose2425F&theme=github_dark" alt="detalles del perfil" />
@@ -143,7 +144,7 @@
 <br/>
 
 <!-- ============================ SERPIENTE ============================ -->
-<h2 align="center">🐍 Mis contribuciones</h2>
+## 🐍 Mis contribuciones
 
 <div align="center">
   <img width="96%" src="https://raw.githubusercontent.com/Jose2425F/Jose2425F/output/github-snake-dark.svg" alt="animacion serpiente" />
