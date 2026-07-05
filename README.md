@@ -42,7 +42,9 @@
 
 **👋 ¡Hola! Soy José Fernando Galván**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000000&color=22D3EE&width=480&height=38&repeat=false&lines=%3C+Desarrollador+%C2%B7+Power+Platform+%C2%B7+Full-stack+%2F%3E" alt="rol" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000000&color=22D3EE&width=440&height=34&repeat=false&lines=%3C+Desarrollador+%C2%B7+Power+Platform" alt="rol linea 1" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000000&color=8B5CF6&width=440&height=34&repeat=false&lines=%C2%A0%C2%A0Full-stack+%C2%B7+Ciberseguridad+%2F%3E" alt="rol linea 2" />
 
 Ingeniero de Sistemas en último semestre y desarrollador con alma de **solucionador de problemas**. Actualmente hago mi práctica en el **Banco de Bogotá**, donde **automatizo y centralizo procesos** con Power Platform.
 
