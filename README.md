@@ -1,16 +1,16 @@
 <!-- ============================ BANNER ============================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f6df6,50:38bdf8,100:fb923c&height=210&section=header&text=Jos%C3%A9%20Fernando%20Galv%C3%A1n&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Desarrollador%20%C2%B7%20Power%20Platform%20y%20Automatizaci%C3%B3n%20%C2%B7%20Ciberseguridad&descAlignY=56&descSize=18" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f6df6,35:8b5cf6,70:22d3ee,100:f472b6&height=210&section=header&text=Jos%C3%A9%20Fernando%20Galv%C3%A1n&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Desarrollador%20%C2%B7%20Power%20Platform%20y%20Automatizaci%C3%B3n%20%C2%B7%20Ciberseguridad&descAlignY=56&descSize=18&animation=fadeIn" alt="banner" />
 
 <!-- ============================ TYPING ============================ -->
 <div align="center">
   <a href="https://github.com/Jose2425F">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=38BDF8&center=true&vCenter=true&width=740&lines=Ingeniero+de+Sistemas+en+formaci%C3%B3n;Automatizando+procesos+con+Power+Platform;Full-stack+%7C+React+%C2%B7+Angular+%C2%B7+Python;Apasionado+por+la+ciberseguridad+%F0%9F%94%90" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=740&lines=Ingeniero+de+Sistemas+en+formaci%C3%B3n;Automatizando+procesos+con+Power+Platform;Full-stack+%7C+React+%C2%B7+Angular+%C2%B7+Python;Apasionado+por+la+ciberseguridad+%F0%9F%94%90" alt="typing" />
   </a>
 </div>
 
 <!-- ============================ VISITAS + SOCIALES + CV ============================ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jose2425F&style=for-the-badge&color=2f6df6&label=VISITAS+AL+PERFIL" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Jose2425F&style=for-the-badge&color=8b5cf6&label=VISITAS+AL+PERFIL" alt="visitas" />
 </div>
 
 <div align="center">
@@ -27,11 +27,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   <a href="https://github.com/Jose2425F/Jose2425F/raw/main/assets/CV_Jose_Galvan.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Descargar%20mi%20CV-fb923c?style=for-the-badge&logoColor=white" alt="cv" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Descargar%20mi%20CV-8b5cf6?style=for-the-badge&logoColor=white" alt="cv" />
   </a>
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
 
 <!-- ============================ SOBRE MÍ ============================ -->
 ## 🧑‍💻 Sobre mí
@@ -42,11 +42,11 @@
 
 **👋 ¡Hola! Soy José Fernando Galván**
 
-<a href="https://github.com/Jose2425F">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=800&color=38BDF8&width=470&height=55&lines=Ingeniero+de+Sistemas+en+%C3%BAltimo+semestre;Practicante+en+el+Banco+de+Bogot%C3%A1;Automatizo+procesos+con+Power+Platform;Full-stack%3A+React+%C2%B7+Angular+%C2%B7+TypeScript;Ciberseguridad+%2B+IA+con+agentes;Administro+servidores+VPS+%2F+Linux" alt="sobre mi" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000000&color=22D3EE&width=480&height=38&repeat=false&lines=%3C+Desarrollador+%C2%B7+Power+Platform+%C2%B7+Full-stack+%2F%3E" alt="rol" />
 
-Desarrollador con alma de **solucionador de problemas**. Me dedico a **automatizar y centralizar procesos** para que las cosas fluyan más rápido y con menos errores — moviéndome entre el bajo código, el desarrollo full-stack y la ciberseguridad.
+Ingeniero de Sistemas en último semestre y desarrollador con alma de **solucionador de problemas**. Actualmente hago mi práctica en el **Banco de Bogotá**, donde **automatizo y centralizo procesos** con Power Platform.
+
+Me muevo con soltura entre el **bajo código**, el **full-stack** (React · Angular · TypeScript) y la **administración de servidores VPS / Linux**, y me apasionan la **ciberseguridad** y la **IA con agentes**.
 
 </td>
 <td valign="middle" width="42%" align="center">
@@ -55,21 +55,22 @@ Desarrollador con alma de **solucionador de problemas**. Me dedico a **automatiz
 </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
+
 <!-- ============================ TECNOLOGÍAS ============================ -->
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
 
-<!-- iconos animados (colores de marca fijos, visibles en tema claro y oscuro) -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" height="52" alt="python" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="52" height="52" alt="typescript" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="52" height="52" alt="javascript" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" height="52" alt="react" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="52" height="52" alt="java" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" height="52" alt="docker" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" height="52" alt="mysql" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="52" height="52" alt="nginx" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="github" />
+<!-- iconos animados (colores de marca, visibles en claro y oscuro) -->
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="python" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="typescript" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="javascript" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="react" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="java" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="docker" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="mysql" />&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="nginx" />
 
 </div>
 
@@ -105,42 +106,42 @@ Desarrollador con alma de **solucionador de problemas**. Me dedico a **automatiz
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
 
 <!-- ============================ ESTADÍSTICAS ============================ -->
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=fb923c&text_color=c9d1d9&bg_color=0d1117" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2f6df6&icon_color=fb923c&text_color=24292f&bg_color=ffffff" alt="estadisticas" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=8b5cf6&icon_color=2f6df6&text_color=24292f&bg_color=ffffff" alt="estadisticas" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=2f6df6&text_color=24292f&bg_color=ffffff" alt="lenguajes" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=8b5cf6&text_color=24292f&bg_color=ffffff" alt="lenguajes" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jose2425F&hide_border=true&background=0d1117&stroke=38bdf8&ring=fb923c&fire=fb923c&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-    <img src="https://streak-stats.demolab.com?user=Jose2425F&hide_border=true&background=ffffff&stroke=2f6df6&ring=fb923c&fire=fb923c&currStreakLabel=2f6df6&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="racha" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jose2425F&hide_border=true&background=0d1117&stroke=a78bfa&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <img src="https://streak-stats.demolab.com?user=Jose2425F&hide_border=true&background=ffffff&stroke=8b5cf6&ring=2f6df6&fire=f472b6&currStreakLabel=8b5cf6&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="racha" />
   </picture>
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
 
 <!-- ============================ ACTIVIDAD ============================ -->
 ## 📈 Actividad de contribuciones
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=0d1117&color=38bdf8&line=fb923c&point=ffffff&area=true&hide_border=true" />
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=ffffff&color=2f6df6&line=fb923c&point=24292f&area=true&hide_border=true" alt="grafica de actividad" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=0d1117&color=22d3ee&line=a78bfa&point=f472b6&area=true&hide_border=true" />
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=ffffff&color=8b5cf6&line=2f6df6&point=f472b6&area=true&hide_border=true" alt="grafica de actividad" />
   </picture>
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
 
 <!-- ============================ RESUMEN EN TARJETAS ============================ -->
 ## 🧩 Resumen del perfil
@@ -174,7 +175,7 @@ Desarrollador con alma de **solucionador de problemas**. Me dedico a **automatiz
   </picture>
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
 
 <!-- ============================ SERPIENTE ============================ -->
 ## 🐍 Mis contribuciones
@@ -186,10 +187,8 @@ Desarrollador con alma de **solucionador de problemas**. Me dedico a **automatiz
   </picture>
 </div>
 
-<br/>
-
 <!-- ============================ FOOTER ============================ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,50:38bdf8,100:2f6df6&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:22d3ee,100:8b5cf6&height=120&section=footer" alt="footer" />
 
 <div align="center">
   <sub>⭐ ¡Gracias por visitar mi perfil! No dudes en escribirme. ⭐</sub>
