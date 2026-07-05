@@ -60,6 +60,23 @@ Desarrollador con alma de **solucionador de problemas**. Me dedico a **automatiz
 
 <div align="center">
 
+<!-- iconos animados (colores de marca fijos, visibles en tema claro y oscuro) -->
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" height="52" alt="python" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="52" height="52" alt="typescript" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="52" height="52" alt="javascript" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" height="52" alt="react" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="52" height="52" alt="java" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" height="52" alt="docker" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" height="52" alt="mysql" />
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="52" height="52" alt="nginx" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="github" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 **⚡ Especialidad — Power Platform**
 
 <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="power apps" />
