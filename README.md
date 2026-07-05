@@ -94,8 +94,8 @@ frase:         "Automatizar lo repetitivo para enfocarse en lo importante."
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=fb923c&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=fb923c&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 </div>
 
 <div align="center">
@@ -109,11 +109,21 @@ frase:         "Automatizar lo repetitivo para enfocarse en lo importante."
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=0d1117&color=38bdf8&line=fb923c&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </div>
 
-<!-- ======================= TROFEOS ======================= -->
-## 🏆 Trofeos
+<!-- ======================= RESUMEN EN TARJETAS ======================= -->
+## 🧩 Resumen del perfil
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jose2425F&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose2425F&theme=github_dark" alt="profile details" />
+</div>
+
+<div align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose2425F&theme=github_dark" alt="repos per language" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose2425F&theme=github_dark" alt="most commit language" />
+</div>
+
+<div align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jose2425F&theme=github_dark" alt="summary stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose2425F&theme=github_dark&utcOffset=-5" alt="productive time" />
 </div>
 
 <br/>
