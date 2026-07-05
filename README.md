@@ -90,14 +90,14 @@ Me muevo con soltura entre el **bajo código**, el **full-stack** (React · Angu
 **💻 Lenguajes y frameworks**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,java,cpp,kotlin,php,react,angular,vite,html,css&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cjava%2Ccpp%2Ckotlin%2Cphp%2Creact%2Cangular%2Cvite%2Chtml%2Ccss&theme=dark" />
   <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,kotlin,php,react,angular,vite,html,css&theme=light" alt="lenguajes" />
 </picture>
 
 **🗄️ Datos · Infraestructura · Seguridad**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,supabase,linux,nginx,docker,git,kali,bash&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Csupabase%2Clinux%2Cnginx%2Cdocker%2Cgit%2Ckali%2Cbash&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql,supabase,linux,nginx,docker,git,kali,bash&theme=light" alt="infra" />
 </picture>
 
