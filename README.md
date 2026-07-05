@@ -52,7 +52,7 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 
 </td>
 <td valign="top" width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding" />
+<img src="https://raw.githubusercontent.com/Jose2425F/Jose2425F/main/assets/sobre-mi.gif" width="100%" alt="desarrollador" />
 </td>
 </tr>
 </table>
@@ -93,9 +93,9 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 **🗄️ Datos · Infraestructura · Seguridad**
 
 <img src="https://skillicons.dev/icons?i=mysql,supabase,linux,nginx,docker,git,kali,bash&theme=dark" alt="infra" />
-<br/>
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sqlserver" />
 
 </div>
 
