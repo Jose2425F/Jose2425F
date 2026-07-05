@@ -27,10 +27,10 @@ jobs:
       - name: Normalizar colores (añadir # faltante a las variables CSS)
         run: |
           for f in dist/*.svg; do
-            sed -E -i 's/(--c[a-z0-9]+:)([0-9a-fA-F]{6})([;}])/\1#\2\3/g' "$f"
+            sudo sed -E -i 's/(--c[a-z0-9]+:)([0-9a-fA-F]{6})([;}])/\1#\2\3/g' "$f"
           done
           echo "Variables de color tras normalizar:"
-          grep -oE '\-\-c[a-z0-9]+:#?[0-9a-fA-F]{6,8}' dist/github-snake.svg | head
+          grep -oE '\-\-c[a-z0-9]+:#?[0-9a-fA-F]{6,8}' dist/github-snake.svg | head || true
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
