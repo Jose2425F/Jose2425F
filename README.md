@@ -4,7 +4,7 @@
 <!-- ============================ TYPING ============================ -->
 <div align="center">
   <a href="https://github.com/Jose2425F">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=740&lines=Ingeniero+de+Sistemas+en+formaci%C3%B3n;Automatizando+procesos+con+Power+Platform;Full-stack+%7C+React+%C2%B7+Angular+%C2%B7+Python;Apasionado+por+la+ciberseguridad+%F0%9F%94%90" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=800&color=22D3EE&center=true&vCenter=true&width=740&lines=%C2%A1Bienvenido+a+mi+rinc%C3%B3n+de+GitHub!+%F0%9F%91%8B;Me+gusta+que+las+cosas+fluyan+mejor+%F0%9F%8C%8A;Del+problema+a+la+soluci%C3%B3n%2C+paso+a+paso;Siempre+construyendo+y+aprendiendo+%F0%9F%8C%B1" alt="typing" />
   </a>
 </div>
 
@@ -40,15 +40,15 @@
 <tr>
 <td valign="middle" width="58%">
 
-**👋 ¡Hola! Soy José Fernando Galván**
+**👋 ¡Hola!**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000000&color=22D3EE&width=440&height=34&repeat=false&lines=%3C+Desarrollador+%C2%B7+Power+Platform" alt="rol linea 1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000000&color=22D3EE&width=440&height=34&repeat=false&lines=%3C+Automatizar+lo+repetitivo%2C" alt="lema linea 1" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000000&color=8B5CF6&width=440&height=34&repeat=false&lines=%C2%A0%C2%A0Full-stack+%C2%B7+Ciberseguridad+%2F%3E" alt="rol linea 2" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000000&color=8B5CF6&width=440&height=34&repeat=false&lines=%C2%A0%C2%A0crear+lo+importante+%2F%3E" alt="lema linea 2" />
 
-Ingeniero de Sistemas en último semestre y desarrollador con alma de **solucionador de problemas**. Actualmente hago mi práctica en el **Banco de Bogotá**, donde **automatizo y centralizo procesos** con Power Platform.
+Ingeniero de Sistemas en último semestre y practicante en el **Banco de Bogotá**. Convierto procesos manuales en soluciones que ahorran tiempo, y disfruto construir de punta a punta — desde la interfaz hasta el servidor.
 
-Me muevo con soltura entre el **bajo código**, el **full-stack** (React · Angular · TypeScript) y la **administración de servidores VPS / Linux**, y me apasionan la **ciberseguridad** y la **IA con agentes**.
+Ahora mismo exploro cómo la **IA** puede potenciar la seguridad de los sistemas. 🚀
 
 </td>
 <td valign="middle" width="42%" align="center">
