@@ -38,20 +38,18 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="middle" width="58%">
 
-Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último semestre** y desarrollador con alma de solucionador de problemas. Me dedico a **automatizar y centralizar procesos** para que las cosas fluyan más rápido y con menos errores.
+**👋 ¡Hola! Soy José Fernando Galván**
 
-- 🏦 &nbsp;**Practicante en el Banco de Bogotá** — Power Apps, Power Automate y SharePoint
-- 🔐 &nbsp;Apasionado por la **ciberseguridad** — proyecto de grado con **agentes de IA** (CrewAI + Nmap)
-- 🌐 &nbsp;Desarrollo **full-stack** con React, Angular y TypeScript
-- 🖥️ &nbsp;Administro **servidores VPS / Linux** (Nginx, Docker)
-- 🌱 &nbsp;Siempre aprendiendo algo nuevo y colaborando en proyectos reales
+<a href="https://github.com/Jose2425F">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=800&color=38BDF8&width=470&height=55&lines=Ingeniero+de+Sistemas+en+%C3%BAltimo+semestre;Practicante+en+el+Banco+de+Bogot%C3%A1;Automatizo+procesos+con+Power+Platform;Full-stack%3A+React+%C2%B7+Angular+%C2%B7+TypeScript;Ciberseguridad+%2B+IA+con+agentes;Administro+servidores+VPS+%2F+Linux" alt="sobre mi" />
+</a>
 
-> _"Automatizar lo repetitivo para enfocarse en lo importante."_
+Desarrollador con alma de **solucionador de problemas**. Me dedico a **automatizar y centralizar procesos** para que las cosas fluyan más rápido y con menos errores — moviéndome entre el bajo código, el desarrollo full-stack y la ciberseguridad.
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="42%" align="center">
 <img src="https://raw.githubusercontent.com/Jose2425F/Jose2425F/main/assets/sobre-mi.gif" width="100%" alt="desarrollador" />
 </td>
 </tr>
@@ -59,23 +57,6 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 
 <!-- ============================ TECNOLOGÍAS ============================ -->
 ## 🛠️ Tecnologías y herramientas
-
-<div align="center">
-
-<!-- iconos animados (con movimiento) -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" height="52" alt="python" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="52" height="52" alt="typescript" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="52" height="52" alt="javascript" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" height="52" alt="react" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="52" height="52" alt="java" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" height="52" alt="docker" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" height="52" alt="mysql" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="52" height="52" alt="nginx" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="52" height="52" alt="github" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -88,11 +69,19 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 
 **💻 Lenguajes y frameworks**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,kotlin,php,react,angular,vite,html,css&theme=dark" alt="lenguajes" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,java,cpp,kotlin,php,react,angular,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,kotlin,php,react,angular,vite,html,css&theme=light" alt="lenguajes" />
+</picture>
 
 **🗄️ Datos · Infraestructura · Seguridad**
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,linux,nginx,docker,git,kali,bash&theme=dark" alt="infra" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,supabase,linux,nginx,docker,git,kali,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,linux,nginx,docker,git,kali,bash&theme=light" alt="infra" />
+</picture>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="sqlserver" />
@@ -105,12 +94,21 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=fb923c&text_color=c9d1d9&bg_color=0d1117" alt="estadisticas" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" alt="lenguajes" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=fb923c&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2f6df6&icon_color=fb923c&text_color=24292f&bg_color=ffffff" alt="estadisticas" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=2f6df6&text_color=24292f&bg_color=ffffff" alt="lenguajes" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jose2425F&hide_border=true&background=0d1117&stroke=38bdf8&ring=fb923c&fire=fb923c&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="racha" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Jose2425F&hide_border=true&background=0d1117&stroke=38bdf8&ring=fb923c&fire=fb923c&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+    <img src="https://streak-stats.demolab.com?user=Jose2425F&hide_border=true&background=ffffff&stroke=2f6df6&ring=fb923c&fire=fb923c&currStreakLabel=2f6df6&sideLabels=24292f&dates=57606a&currStreakNum=24292f&sideNums=24292f" alt="racha" />
+  </picture>
 </div>
 
 <br/>
@@ -119,7 +117,10 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 ## 📈 Actividad de contribuciones
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=0d1117&color=38bdf8&line=fb923c&point=ffffff&area=true&hide_border=true" alt="grafica de actividad" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=0d1117&color=38bdf8&line=fb923c&point=ffffff&area=true&hide_border=true" />
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jose2425F&bg_color=ffffff&color=2f6df6&line=fb923c&point=24292f&area=true&hide_border=true" alt="grafica de actividad" />
+  </picture>
 </div>
 
 <br/>
@@ -128,17 +129,32 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 ## 🧩 Resumen del perfil
 
 <div align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose2425F&theme=github_dark" alt="detalles del perfil" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose2425F&theme=github_dark" />
+    <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose2425F&theme=default" alt="detalles del perfil" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose2425F&theme=github_dark" alt="repositorios por lenguaje" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose2425F&theme=github_dark" alt="lenguaje mas usado" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose2425F&theme=github_dark" />
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jose2425F&theme=default" alt="repositorios por lenguaje" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose2425F&theme=github_dark" />
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jose2425F&theme=default" alt="lenguaje mas usado" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jose2425F&theme=github_dark" alt="resumen de stats" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose2425F&theme=github_dark&utcOffset=-5" alt="horario productivo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jose2425F&theme=github_dark" />
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jose2425F&theme=default" alt="resumen de stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose2425F&theme=github_dark&utcOffset=-5" />
+    <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jose2425F&theme=default&utcOffset=-5" alt="horario productivo" />
+  </picture>
 </div>
 
 <br/>
@@ -147,7 +163,10 @@ Hola 👋 Soy **José Fernando Galván**, ingeniero de sistemas en **último sem
 ## 🐍 Mis contribuciones
 
 <div align="center">
-  <img width="96%" src="https://raw.githubusercontent.com/Jose2425F/Jose2425F/output/github-snake-dark.svg" alt="animacion serpiente" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jose2425F/Jose2425F/output/github-snake-dark.svg" />
+    <img width="96%" src="https://raw.githubusercontent.com/Jose2425F/Jose2425F/output/github-snake.svg" alt="animacion serpiente" />
+  </picture>
 </div>
 
 <br/>
