@@ -31,6 +31,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Disponible%20para%20nuevas%20oportunidades-22d3ee?style=for-the-badge&labelColor=0d1117" alt="disponible" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
 
 <!-- ============================ SOBRE MÍ ============================ -->
@@ -46,9 +50,9 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000000&color=8B5CF6&width=440&height=34&repeat=false&lines=%C2%A0%C2%A0crear+lo+importante+%2F%3E" alt="lema linea 2" />
 
-Ingeniero de Sistemas en último semestre y practicante en el **Banco de Bogotá**. Convierto procesos manuales en soluciones que ahorran tiempo, y disfruto construir de punta a punta — desde la interfaz hasta el servidor.
+Ingeniero de Sistemas en último semestre. Acabo de completar seis meses de práctica profesional en el **Banco de Bogotá**, donde automaticé y centralicé procesos con Power Platform: formularios y flujos de aprobación que reemplazaron trabajo manual.
 
-Ahora mismo exploro cómo la **IA** puede potenciar la seguridad de los sistemas. 🚀
+Convierto procesos repetitivos en soluciones que ahorran tiempo y disfruto construir de punta a punta, desde la interfaz hasta el servidor. Ahora exploro cómo la **IA** puede potenciar la seguridad de los sistemas. 🚀
 
 </td>
 <td valign="middle" width="42%" align="center">
@@ -80,7 +84,7 @@ Ahora mismo exploro cómo la **IA** puede potenciar la seguridad de los sistemas
 
 <div align="center">
 
-**⚡ Especialidad — Power Platform**
+**⚡ Especialidad: Power Platform**
 
 <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="power apps" />
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="power automate" />
