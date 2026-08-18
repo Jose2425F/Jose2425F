@@ -119,12 +119,12 @@ Convierto procesos repetitivos en soluciones que ahorran tiempo y disfruto const
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jose2425F&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=8b5cf6&icon_color=2f6df6&text_color=24292f&bg_color=ffffff" alt="estadisticas" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=Jose2425F&custom_title=Mis%20estad%C3%ADsticas&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Jose2425F&custom_title=Mis%20estad%C3%ADsticas&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=8b5cf6&icon_color=2f6df6&text_color=24292f&bg_color=ffffff" alt="estadisticas" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jose2425F&layout=compact&langs_count=8&hide_border=true&title_color=8b5cf6&text_color=24292f&bg_color=ffffff" alt="lenguajes" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Jose2425F&custom_title=Lenguajes%20m%C3%A1s%20usados&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" />
+    <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Jose2425F&custom_title=Lenguajes%20m%C3%A1s%20usados&layout=compact&langs_count=8&hide_border=true&title_color=8b5cf6&text_color=24292f&bg_color=ffffff" alt="lenguajes" />
   </picture>
 </div>
 
