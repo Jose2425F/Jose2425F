@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Disponible%20para%20nuevas%20oportunidades-22d3ee?style=for-the-badge&labelColor=0d1117" alt="disponible" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Busco%20rol-Desarrollador%20Power%20Platform%20%2F%20Automatizaci%C3%B3n-22d3ee?style=for-the-badge&labelColor=0d1117" alt="busco rol" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2f6df6,50:a78bfa,100:22d3ee&height=4" alt="" />
